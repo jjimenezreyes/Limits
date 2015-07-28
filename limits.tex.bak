@@ -24,7 +24,7 @@ In this activity we will learn about limits of functions.
 Consider the function whose graph is displayed below:
 
 \begin{image}
-picewise1.png
+\includegraphics[scale=.6]{piecewise1.png}
 \end{image}
 
 
