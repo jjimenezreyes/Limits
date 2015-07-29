@@ -14,6 +14,14 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# files to ignore
+*.aux
+*.bak
+*.log
+*.pdf
+*.out
+*.synctex.gz
+
 # Windows shortcuts
 *.lnk
 
